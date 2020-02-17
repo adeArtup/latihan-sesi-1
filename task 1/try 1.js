@@ -10,4 +10,3 @@ completeMessage = message + ' ' + whyChooseHacktiv8 + 'awalnya adalah tuntutan p
 
 console.log(completeMessage)
 
-xxxx
